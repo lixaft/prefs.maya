@@ -1,0 +1,2 @@
+def tata():
+    print("tata")
